@@ -1,4 +1,4 @@
-# Social Media Dashboard (Frontend Test Task)
+# Social Media Dashboard
 
 A Vite + React + TypeScript social media dashboard showcasing **RTK Query**, **RHF + Zod**, and a **mock backend** with realistic async behavior.
 
